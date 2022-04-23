@@ -20,7 +20,7 @@
 						<h1 class="entry-title"><?php esc_html_e('404','machic'); ?></h1>
 						<h2 class="entry-subtitle"><?php esc_html_e('Page Not Found','machic'); ?></h2>
 						<div class="entry-content">
-							<p><?php esc_html_e('It looks like nothing was found at this location. Maybe try to search for what you are looking for?','machic'); ?></p>
+							<p><?php esc_html_e('Parece que no se encontró nada en este lugar. Tal vez intente buscar lo que está buscando?','machic'); ?></p>
 						</div><!-- entry-content -->
 						<?php get_search_form(); ?>
 						

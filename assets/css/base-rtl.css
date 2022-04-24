@@ -17,9 +17,9 @@
   --color-background: #fff;
   --color-main-text: #021523;
   --color-text-light: #818ea0;
-  --color-primary: #041e42;
-  --color-secondary: #ffbd27;
-  --color-link: #0070dc;
+  --color-primary: #082359;
+  --color-secondary: #00d2bb;
+  --color-link: #368dd9;
   --color-form-border: #d9dde3;
   --color-form-placeholder: #9aa5b3;
   --color-theme-danger: #ef262c;
@@ -29,8 +29,8 @@
   --color-theme-success: #00a046;
   --color-theme-light: #f2f3f5;
   --color-product-fade-border: #e0e5ea;
-  --color-shop-button: #00a046;
-  --color-shop-button-active: #037535;
+  --color-shop-button: #082359;
+  --color-shop-button-active: #00d2bb;
 }
 
 :root {

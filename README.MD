@@ -1,25 +1,28 @@
-# Solmedic - Wordpress store main theme
+# Solmedic - Wordpress store theme
 
 Medical equipment provider company - wordpress store
 
 <p align="center">
-<a href="https://solmedicven.com" target="_blank"><img src="https://images.ctfassets.net/1o6a1zpz3peg/7rd3plstPDOyQoAlqHkn7M/e8dcc1b6773fd0f1b991a0bc2537c2f4/logo-5-2.jpg" height="250" width="250"/></a>
+<a href="https://solmedicven.com" target="_blank"><img src="https://images.ctfassets.net/1o6a1zpz3peg/7rd3plstPDOyQoAlqHkn7M/e8dcc1b6773fd0f1b991a0bc2537c2f4/logo-5-2.jpg" height="250px" width="250px"/></a>
 </p>
 
 # Demo: https://solmedicven.com
 
 ## Color Reference
 
-| Color           | Hex                                                              |
-| --------------- | ---------------------------------------------------------------- |
-| Main Color      | ![#082359](https://via.placeholder.com/10/082359?text=+) #082359 |
-| Secondary Color | ![#00d2bb](https://via.placeholder.com/10/00d2bb?text=+) #00d2bb |
-| Link Color      | ![#368dd9](https://via.placeholder.com/10/368dd9?text=+) #368dd9 |
-| Active Color    | ![#00d2bb](https://via.placeholder.com/10/00d2bb?text=+) #00d2bb |
-| Danger Color    | ![#ef262c](https://via.placeholder.com/10/ef262c?text=+) #ef262c |
-| Warning Color   | ![#ffbd27](https://via.placeholder.com/10/ffbd27?text=+) #ffbd27 |
-| Success Color   | ![#00a046](https://via.placeholder.com/10/00a046?text=+) #00a046 |
-| Light Color     | ![#f2f3f5](https://via.placeholder.com/10/f2f3f5?text=+) #f2f3f5 |
+| Color                    | Hex                                                              |
+| ------------------------ | ---------------------------------------------------------------- |
+| Primary Color            | ![#082359](https://via.placeholder.com/10/082359?text=+) #082359 |
+| Secondary Color          | ![#00d2bb](https://via.placeholder.com/10/00d2bb?text=+) #00d2bb |
+| Link Color               | ![#368dd9](https://via.placeholder.com/10/368dd9?text=+) #368dd9 |
+| Active Color             | ![#00d2bb](https://via.placeholder.com/10/00d2bb?text=+) #00d2bb |
+| Danger Color             | ![#ef262c](https://via.placeholder.com/10/ef262c?text=+) #ef262c |
+| Warning Color            | ![#ffbd27](https://via.placeholder.com/10/ffbd27?text=+) #ffbd27 |
+| Success Color            | ![#00a046](https://via.placeholder.com/10/00a046?text=+) #00a046 |
+| Light Color              | ![#f2f3f5](https://via.placeholder.com/10/f2f3f5?text=+) #f2f3f5 |
+| Form Border Color        | ![#d9dde3](https://via.placeholder.com/10/d9dde3?text=+) #d9dde3 |
+| Shop Button Color        | ![#082359](https://via.placeholder.com/10/082359?text=+) #082359 |
+| Shop Button Color Active | ![#00d2bb](https://via.placeholder.com/10/00d2bb?text=+) #00d2bb |
 
 ## Color Reference Promos
 
